@@ -7,7 +7,7 @@
     "axios": "^0.21.1",
     "bootstrap-italia": "^1.4.1",
     "classnames": "^2.2.6",
-    "design-react-kit": "^3.3.1",
+    "design-react-kit": "^3.3.3",
     "dompurify": "^2.2.6",
     "lodash.debounce": "^4.0.8",
     "marked": "^1.2.7",
