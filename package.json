@@ -10,7 +10,7 @@
     "design-react-kit": "^3.3.1",
     "dompurify": "^2.2.6",
     "lodash.debounce": "^4.0.8",
-    "marked": "^1.2.7",
+    "marked": "^2.0.3",
     "monaco-editor": "^0.21.2",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
